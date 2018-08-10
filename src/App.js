@@ -4,12 +4,7 @@ import video from './video.mp4';
 import './App.css';
 
 class App extends Component {
-  $video = null;
-  // componentDidMount() {
-  //   document.getElementById('video').addEventListener('loadedmetadata', function() {
-  //     this.muted = false;
-  //   }, false);
-  // }
+ 
   render() {
     return (
       <div className="App">
